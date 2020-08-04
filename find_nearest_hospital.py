@@ -3,7 +3,7 @@ import time
 from bs4 import BeautifulSoup
 
 # Define the API Key.
-API_KEY = 'AIzaSyCs-oYxiui65Y1ZSebjkZVRpyq-Z-5qdBg'
+API_KEY = 'eneter key'
 
 # Define the Client
 gmaps = googlemaps.Client(key = API_KEY)
