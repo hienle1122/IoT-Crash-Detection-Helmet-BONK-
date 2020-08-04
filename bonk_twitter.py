@@ -6,11 +6,11 @@ from bs4 import BeautifulSoup
 
 tweet_detail_db = '__HOME__/twitter/twitter.db'  # database to store mapping of user to emergency contact
 
-twitter_API_key = "YcxZeH1S2mdgxv0iQNAybjpr3"
-twitter_API_secret_key = "KwkaEnBYzlTZ9kgysyBQHHsVW3wLI77PwYncy8xFSSN0LdQbvM"
+twitter_API_key = "enter key"
+twitter_API_secret_key = "enter key"
 
-twitter_Access_token = "1248397532339810304-dZrnUa2hUZa8XnIJm2VFxAidF8lxxl"
-twitter_Access_secret_token = "4XtVtSdeNytodFIWXo1NQOcbrtxke0iC33t23nofDyGZx"
+twitter_Access_token = "enter token"
+twitter_Access_secret_token = "enter token"
 
 auth = tweepy.OAuthHandler(twitter_API_key, twitter_API_secret_key)
 auth.set_access_token(twitter_Access_token, twitter_Access_secret_token)
