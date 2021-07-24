@@ -1,26 +1,16 @@
-<div align="center">
 
-    <header>**BONK&#8482;**</header>
-    <header>Leo Martinez - CEO</header>
-    <header>Harshal Chamdal - CFO</header>
-    <header>Hien Le - CTO</header>
-    <header>Nick Hougardy - COO and Crash Test Dummy</header>
+# BONK
 
-    <a href="https://drive.google.com/uc?export=view&id=1ak-aZIXE4k-AAuWupSbL0l8T-EJKmeBz">
-    <img src="https://drive.google.com/uc?export=view&id=1ak-aZIXE4k-AAuWupSbL0l8T-EJKmeBz"
-    style="width: 500px; max-width: 100%; height: auto"
-    title="Click for the larger version." />
-    </a>
-</div>
+<a href="https://drive.google.com/uc?export=view&id=1ak-aZIXE4k-AAuWupSbL0l8T-EJKmeBz">
+<img src="https://drive.google.com/uc?export=view&id=1ak-aZIXE4k-AAuWupSbL0l8T-EJKmeBz"
+style="width: 500px; max-width: 100%; height: auto"
+title="Click for the larger version." />
+</a>
 <div align="left">
 
 <h1> Intro </h1>
 
-<div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/vU2uWvjclJM" frameborder="0"
-            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen></iframe>
-</div>
+[![Bonk Demo](https://yt-embed.herokuapp.com/embed?v=vU2uWvjclJM)](https://www.youtube.com/watch?v=vU2uWvjclJM "BONK Demo")
 
 <h1>
     What the system does
@@ -248,4 +238,3 @@
         they had fallen extremely badly.
     </p>
 
-    <style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="markdeep.min.js" charset="utf-8"></script><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js" charset="utf-8"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
